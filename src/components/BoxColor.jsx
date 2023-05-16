@@ -8,7 +8,7 @@ const BoxColor = (props) => {
     
     return (
         <div className="BoxColor">
-            return <div style={style}>{color}</div>;
+            <div style={style}>{color}</div>
 
         </div>
     )
