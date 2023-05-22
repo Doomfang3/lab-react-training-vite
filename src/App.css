@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+.IdCard{
+  display: flex;
+  border: 1px solid black;
+ 
+
+}
+.greetings{
+  border: 1px solid black;
+}
+
